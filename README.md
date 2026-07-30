@@ -7,7 +7,9 @@
 </p>
 
 > A local multiplayer 2D tank battle game focused on responsive movement, strategic shooting, and balanced gameplay. 
-<img width="1378" height="581" alt="image" src="https://github.com/user-attachments/assets/d88881bc-cf1c-4f55-afa5-55f2819a1ecc" />
+<p align="center">
+  <img width="1378" height="581" alt="image" src="https://github.com/user-attachments/assets/d88881bc-cf1c-4f55-afa5-55f2819a1ecc">
+</p>
 
 This project was developed following the [Unity's Tanks tutorial](https://unity3d.com/learn/tutorials/s/tanks-tutorial). It serves as a major milestone in my game development journey, allowing me to familiarize myself with the Unity engine, physics, and C# scripting.
 
