@@ -1,6 +1,3 @@
-Here is a polished, professional, and visually appealing version of the `README.md` that combines your original project reflections with the detailed technical design document you provided. The video link has been removed, and the formatting has been significantly upgraded.
-
----
 
 ```markdown
 # 🚀 2D Battle Tank Game
@@ -10,6 +7,7 @@ Here is a polished, professional, and visually appealing version of the `README.
 </p>
 
 > A local multiplayer 2D tank battle game focused on responsive movement, strategic shooting, and balanced gameplay. 
+<img width="1378" height="581" alt="image" src="https://github.com/user-attachments/assets/d88881bc-cf1c-4f55-afa5-55f2819a1ecc" />
 
 This project was developed following the [Unity's Tanks tutorial](https://unity3d.com/learn/tutorials/s/tanks-tutorial). It serves as a major milestone in my game development journey, allowing me to familiarize myself with the Unity engine, physics, and C# scripting.
 
